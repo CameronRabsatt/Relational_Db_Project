@@ -7,5 +7,6 @@ Final database project for cis3212 database systems at catawba college
 ##SQL statments
 
 ##ScreenShots
+<img src=Erd Diagram.png
 
 ##System Specifications

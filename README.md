@@ -13,6 +13,7 @@ Final database project for cis3212 database systems at catawba college
 <img src="Example Of View.png" width=50% height=50%>
 <img src="Extra Left Join.png" width=50% height=50%>
 <img src="Extra Right Join.png" width=50% height=50%>
+<img src="Updated_Proc.png" width=50% height=50%>
 
 
 ##System Specifications

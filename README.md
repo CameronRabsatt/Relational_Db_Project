@@ -3,7 +3,7 @@ Final database project for cis3212 database systems at catawba college
 ## Project overview 
 
 ##Database model 
-Order#_toDriver.png
+
 ##SQL statments
 
 ##ScreenShots

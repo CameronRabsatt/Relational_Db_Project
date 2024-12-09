@@ -17,8 +17,7 @@ Final database project for cis3212 database systems at catawba college
 <img src="Triggers.png" width=50% height=50%>
 <img src="Average_Rating_Function.png" width=50% height=50%>
 <img src="Add_Table.png" width=50% height=50%>
-<img src="Order#_toDriver.png" width=40% height=40%>
-
+<img src="Order#_toDriver.png">
 
 ##System Specifications
 
